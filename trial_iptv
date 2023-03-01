@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,tvg-id="" tvg-name="11" tvg-logo="https://www.z4a.net/images/2023/03/01/-12a3dd41c7fbbd47f.jpg" group-title="--售后提醒--",试用源
+#EXTINF:-1,tvg-id="" tvg-name="11" tvg-logo="https://www.z4a.net/images/2023/03/01/-12a3dd41c7fbbd47f.jpg" group-title="--售后提醒：试用1天--",试用源
 https://live.v1mk/api/bestv.php?id=cctv1hd8m/8000000
 
 #EXTINF:-1,tvg-id="" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
